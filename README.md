@@ -8,16 +8,16 @@ This project is created for educational and portfolio purposes only and is not a
 ## Live Demo
 https://sabithra-m.github.io/Ferrari-car-showcase/
 
-## 🚀 Features
+##  Features
 
- ✅ Modern and attractive UI design
- ✅ Ferrari car showcase section
- ✅ Responsive layout for different screen sizes
- ✅ Clean and structured webpage design
- ✅ High-quality car images display
- ✅ User-friendly interface
+- Modern and attractive UI design
+- Ferrari car showcase section
+- Responsive layout for different screen sizes
+- Clean and structured webpage design
+- High-quality car images display
+- User-friendly interface
 
-## 🛠️ Technologies Used
+##  Technologies Used
 HTML5 – Structure of the website
 CSS3 – Styling and layout design
 
@@ -31,7 +31,7 @@ CSS3 – Styling and layout design
 * Improving frontend UI development skills
 * Creating modern website designs
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add JavaScript for interactivity
 * Car details page for each model
@@ -39,7 +39,7 @@ CSS3 – Styling and layout design
 * Navigation menu enhancements
 * Backend integration
 
-## 👩‍💻 Author
+##  Author
 Sabithra M
 
 ## ⚠️ Disclaimer
