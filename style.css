@@ -1,0 +1,165 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main1{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    position: relative;
+}
+.sub11{
+    width: 100vw;
+    height: 75vh;
+    background-color: blueviolet;
+    position: absolute;
+    top: 0vh;
+    left: 0vh;
+}
+.sub11 img{
+    width: 100%;
+    height: 100%;
+}
+.sub12{
+    width: 100vw;
+    height: 25vh;
+    background-color: maroon;
+    position: absolute;
+    top: 75vh;
+    overflow: hidden;
+    transition: all 1s ease-in-out;
+    
+}
+.sub12 img{
+    width: 100vw;
+    height: 75vh;
+}
+.main1:hover .sub12{
+    height: 70vh;
+    top: 25vh;
+}
+.sub13{
+    position: absolute;
+    left: 4vw;
+    top: 2vh;
+    color: yellow;
+    font-size: 20px;
+
+}
+.sub13 td{
+    padding: 2px;
+}
+.sub13 td:hover{
+    color: white;
+}
+.sub14{
+    width: 100vw;
+    height: 30vh;
+    position: absolute;
+    top: 8vh;
+    font-size: 75px;
+    font-weight: bold;
+    color: whitesmoke;
+    left: 2vw;
+    transition: all 1s ease-in-out;
+    
+}
+.main1:hover .sub14{
+    left: 33vw;
+    top: 65vh;
+}
+.main2{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    overflow: hidden;
+}
+.main2 video{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.main3{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    position: relative;
+}
+.box3{
+    width: 50vw;
+    height: 50vh;
+    overflow: hidden;
+}
+.box3 img{
+    width: 50vw;
+    height: 50vh;
+    object-fit: cover;
+    transition: all 1s ease-in-out;
+}
+.box3 img:hover{
+    transform: scale3d(1.2,1.2,1.4);
+}
+.sub31{
+     background-color: blueviolet;
+     position: absolute;
+     left: 0vw;
+     top: 0vh;
+}
+.sub32{
+    background-color: brown;
+    position: absolute;
+    top: 0vh;
+    right: 0vw;
+}
+.sub33{
+    background-color: rgb(3, 255, 116);
+    left: 0vw;
+    top: 50vh;
+    position: absolute;
+}
+.sub34{
+    background-color: rgba(252, 235, 8, 0.952);
+    top: 50vh;
+    right: 0vw;
+    position: absolute;
+}
+.main4{
+    width: 100vw;
+    height: 50vh;
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+.main4 button{
+    width: 15vw;
+    height: 5vh;
+    background-color: rgb(80, 74, 74);
+    position: absolute;
+    top: 10vh;
+    left: 42vw;
+    font-size: large;
+    color: white;
+    border: none;
+    border: 2px solid white;
+    border-radius: 5px;   
+}
+button:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+   
+}
+p{
+    font-size: large;
+    position: absolute;
+    top: 21vh;
+    left: 1vw;
+    right: 1vw;
+}
+h2{
+    position: absolute;
+    top: 40vh;
+    left: 44vw;
+}
+
